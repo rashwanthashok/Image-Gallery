@@ -19,7 +19,7 @@ The Rashwanth Image Gallery is a responsive web page that showcases a collection
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Image-Gallery/
+    https://rashwanthashok.github.io/Image-Gallery/
 ## Getting Started:
 
 To use the Rashwanth Image Gallery web page, follow these steps:
