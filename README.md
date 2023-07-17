@@ -86,7 +86,9 @@ Note: The JavaScript code can be further customized to add additional functional
 
 - Easy customization of images and styling.
 
+## Deployment status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24629423-b3cd-4832-abb9-2b59496bfe38/deploy-status)](https://app.netlify.com/sites/jsproject17-image-gallery/deploys)
 
 ## Contributing
 
